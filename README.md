@@ -49,7 +49,8 @@ print("Subset indices:", kind_set.indices)
 visual_paint_img(kind_set,batch_size=10,shuffle=True)
 ```
 
-![Alt text](image.png)
+![image](https://github.com/vxlot/getdata/assets/151598803/5e6cc64d-6931-412c-80d7-e39fa2f6ff92)
+
 
 ## Author
 
