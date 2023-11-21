@@ -48,6 +48,7 @@ kind_set = extract_kinds_dataset(train_set, kinds = (1, 5, 7))
 print("Subset indices:", kind_set.indices)
 test_paint_img(kind_set,batch_size=10,shuffle=True)
 ```
+![image](https://github.com/vxlot/getdata/assets/151598803/11a9563c-df43-48f9-842e-fe3cc5b4144e)
 
 ## Author
 
