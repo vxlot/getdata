@@ -1,4 +1,4 @@
-# getdata
+# Getdata
 Convenient ways to access datasets.
 Getdata 是一个用于处理 EMNIST、CIFAR10 数据集的实用工具。该工具提供了两个主要功能：
 
