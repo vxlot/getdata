@@ -59,7 +59,7 @@ def extract_kinds_dataset(dataset, kinds, labels=None):
     dataset = Subset(dataset, indices)
     return dataset
 
-def test_paint_img(data_set,batch_size,shuffle):
+def visual_paint_img(data_set,batch_size,shuffle):
     """
     Displays a batch of images from a data loader.
 
